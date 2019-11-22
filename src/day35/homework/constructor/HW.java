@@ -1,6 +1,6 @@
 package day35.homework.constructor;
 
-//create a class
+//create a class Bank
 // add at least 3 attributes
 // add at least 3 constructors
 // add method that return all attributes as one string

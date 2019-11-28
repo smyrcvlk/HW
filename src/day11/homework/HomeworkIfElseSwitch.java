@@ -3,14 +3,13 @@ package day11.homework;
 public class HomeworkIfElseSwitch {
     // highlight ctrl + /
 //    public static void main(String[] args) {
-//        int x = 10;
+    //    int x = 10;
+
+//       Boolean myVal = false;
+//        if(myVal==true)
+//        if(myVal){
 //
-////        Boolean myVal = false;
-////
-////        if(myVal==true)
-////        if(myVal){
-////
-////        }
+//       }
 //
 //        if (x) {
 //            System.out.println("HELLO TECHNO");
@@ -20,7 +19,7 @@ public class HomeworkIfElseSwitch {
 //    }
 ////Options:
 ////1. HELLO TECHNO
-////2. Compile time error
+////2. Compile time error ANSWER IS =>2
 ////3. Runtime Error
 ////4. BYE
 //
@@ -43,10 +42,10 @@ public class HomeworkIfElseSwitch {
 ////WELCOME
 ////2. HELLO TECHNO
 ////3. BYE
-////4. Compile time error
+////4. Compile time error  ANSWER IS 4
 //
 //    public class Test {
-//    public static void main(String[] args) {
+    //  public static void main(String[] args) {
 //        int x = 10, y = 20;
 //
 //        if (x < y)
@@ -60,7 +59,7 @@ public class HomeworkIfElseSwitch {
 ////1. 10
 ////2. BYE
 ////3. NO output
-////4. Compile time error
+////4. Compile time error ANSWER IS 4
 //
 //    public class Test {
 //        public static void main(String[] args)
@@ -76,11 +75,11 @@ public class HomeworkIfElseSwitch {
 //                    System.out.println("WELCOME");
 //                }
 //            }
-//        }
-//    }
+////        }
+////    }
 ////Output:
 ////1. HELLO TECHNO
-////2. Compile time error
+////2. Compile time error  ANSWER IS 2
 ////3. WELCOME
 ////4. No Output
 //
@@ -90,9 +89,9 @@ public class HomeworkIfElseSwitch {
 //            if (true)
 //                ;
 //        }
-//    }
+////    }
 ////Options:
-////1. No Output
+////1. No Output  ANWER IS 1
 ////2. Compile time error
 ////3. Runtime error
 ////4. Runtime Exception
@@ -112,21 +111,21 @@ public class HomeworkIfElseSwitch {
 //                case "Sunday":
 //                    System.out.println("Today is fun day");
 //            }
-//        }
+//  //      }
 //    }
 ////Options:
 ////1. Compile time error
 ////2. Lets work
 ////3. Run- time error
-////4. Today is fun day
+////4. Today is fun day "ANSWER IS 4"
 //
 //    public class MainClass {
 
-    //        enum day { MON,
-//            SAT,
+//                enum day { MON,   ???
+//              SAT,
 //            SUN }
 //
-//            public static void main(String[] args)
+//         //   public static void main(String[] args)
 //        {
 //            day ch = day.SUN;
 //            switch (ch) {
@@ -140,13 +139,13 @@ public class HomeworkIfElseSwitch {
 //                    System.out.println("Lets have fun!");
 //                    break;
 //            }
-//        }
+    //  }
 //    }
 ////Options:
 ////1. No Output
 ////2. Syntax error
 ////3. Lets have fun!
-////4. Compile time error
+////4. Compile time error  "ANSWER IS 4"
 //
 //    class MainClass {
 //    public static void main(String[] args) {
@@ -159,7 +158,7 @@ public class HomeworkIfElseSwitch {
 //    }
 ////Options:
 ////1. TECHNO
-////2. Compile time error
+////2. Compile time error  " ANSWER IS 2"
 ////3. No Output
 ////4. Run-time error
 //
@@ -182,7 +181,7 @@ public class HomeworkIfElseSwitch {
 ////1. HELLO
 ////2. No Output
 ////3. TECHNO
-////4. Compile time error
+////4. Compile time error "ANSWER IS 4"
 //
 //    class MainClass {
 //    public static void main(String[] args) {
@@ -200,7 +199,7 @@ public class HomeworkIfElseSwitch {
 //    }
 ////Options:
 ////1. TECHNO
-////2. Compile time error
+////2. Compile time error    "ANSWER IS 2"
 ////3. HELLO
 ////4. NO Output
 ////Output:
@@ -221,7 +220,7 @@ public class HomeworkIfElseSwitch {
 //        }
 //    }
 ////Output:
-////1. Compile time error
+////1. Compile time error  "ANSWER IS 1"
 ////2. TECHNO
 ////3. HELLO
 ////4. No Output
@@ -263,10 +262,10 @@ public class HomeworkIfElseSwitch {
 //                    }
 //                    break;
 //            }
-//        }
+    // }
 //    }
 ////    Options:
-////1. Compile time error
+////1. Compile time error  "ANSWER IS 1"
 ////2. GFG
 ////3. No Output
 ////4. TechnoStudy

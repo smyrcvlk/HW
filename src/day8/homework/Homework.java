@@ -2,16 +2,17 @@ package day8.homework;
 
 public class Homework {
 
-//    1. What is the range of short data type in Java?
+    public static void main(String[] args) {
+        //1. What is the range of short data type in Java?
 //    a) -128 to 127
-//    b) -32768 to 32767
+//    b) -32768 to 32767               // Answer is B
 //    c) -2147483648 to 2147483647
 //    d) None of the mentioned
 //
 //
 //
 //    2. What is the range of byte data type in Java?
-//    a) -128 to 127
+//    a) -128 to 127                 //Answer is A
 //    b) -32768 to 32767
 //    c) -2147483648 to 2147483647
 //    d) None of the mentioned
@@ -28,7 +29,7 @@ public class Homework {
 //    a) 1 and 2
 //    b) 2 and 3
 //    c) 3 and 4
-//    d) All statements are correct.
+//    d) All statements are correct.  //answer is D
 //
 //
 //
@@ -43,7 +44,7 @@ public class Homework {
 //    }
 //    a) 25
 //    b) 24
-//    c) 32
+//    c) 32  answer is C
 //    d) 33
 //
 //
@@ -59,9 +60,10 @@ public class Homework {
 //            System.out.println(a);
 //        }
 //    }
-//    a) 301.5656
+//    a) 301.5656      answer is A
 //    b) 301
 //    c) 301.56
 //    d) 301.56560000
 
+    }
 }

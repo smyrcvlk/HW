@@ -7,4 +7,33 @@ package day35.homework.constructor;
 // in HW class(in different) create at least 4 object on that class
 // call method to get attributes and print it
 public class HW {
+    public static void main(String[] args) {
+        Bank bank= new Bank("chase",123, true);
+        System.out.println(bank.bankspeciaties());
+
+
+    }
+}
+class Bank{
+    public String name;
+    public int serial_number;
+    public boolean secure;
+
+    public Bank(String n){
+        name=n;
+    }
+    public Bank(String n, int sn){
+        name=n;
+        serial_number=sn ;
+    }
+    public Bank(String n, int sn, boolean yes){
+         name=n;
+         serial_number=sn;
+         boolean secure=yes;
+    }
+    public String bankspeciaties(){
+        return "name " + name + "\n"+
+         "serial_numner " + serial_number + "\n"+
+         "secure "+ secure + "\n" ;
+    }
 }

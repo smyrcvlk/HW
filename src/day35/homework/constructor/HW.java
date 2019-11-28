@@ -9,7 +9,7 @@ package day35.homework.constructor;
 public class HW {
     public static void main(String[] args) {
         Bank bank= new Bank("chase",123, true);
-        System.out.println(bank.bankspeciaties());
+        System.out.println(bank.getattributes());
 
 
     }
@@ -31,7 +31,7 @@ class Bank{
          serial_number=sn;
          boolean secure=yes;
     }
-    public String bankspeciaties(){
+    public String getattributes(){
         return "name " + name + "\n"+
          "serial_numner " + serial_number + "\n"+
          "secure "+ secure + "\n" ;

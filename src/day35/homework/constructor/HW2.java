@@ -12,6 +12,12 @@ public class HW2 {
     public static void main(String[] args) {
         Person person= new Person("SUMEYRA", "CIVELEK","BROWN", "FEMALE", 28);
         System.out.println(person.getattributes());
+        Person person2= new Person("betul", "CIVELEK","BROWN", "FEMALE", 27);
+        System.out.println(person2.getattributes());
+        Person person3= new Person("sumeyye", "CIVELEK","BROWN", "FEMALE", 23);
+        System.out.println(person3.getattributes());
+        Person person4= new Person("hamza", "CIVELEK","BROWN", "male", 23);
+        System.out.println(person4.getattributes());
     }
 }
 class Person{

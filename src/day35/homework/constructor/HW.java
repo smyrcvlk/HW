@@ -26,11 +26,13 @@ class Bank{
         name=n;
         serial_number=sn ;
     }
+
     public Bank(String n, int sn, boolean yes){
          name=n;
          serial_number=sn;
-         boolean secure=yes;
+          secure=yes;
     }
+
     public String getattributes(){
         return "name " + name + "\n"+
          "serial_numner " + serial_number + "\n"+

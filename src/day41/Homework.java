@@ -39,7 +39,7 @@ public class Homework {
 //      /* code here */
 //     }
 //   }
-//a) B,E answer A
+//a) B,E answer
 //b) A,C
 //c) C,E
 //d) T,H

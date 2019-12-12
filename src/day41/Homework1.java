@@ -20,7 +20,7 @@ public class Homework1 {
 //}
 
 ////*********************************************************************************************
-//What will be the output of the following Java program?///output is 10
+//What will be the output of the following Java program?///output is =====> 10
 //class A
 //{
 //    int i = 10;
@@ -31,7 +31,7 @@ public class Homework1 {
 //    int i = 20;
 //}
 //
-//public class MainClass // output is 10
+//public class MainClass // output is =====>10
 //{
 //    public static void main(String[] args)
 //    {
@@ -41,7 +41,7 @@ public class Homework1 {
 //    }
 //}
 ////*********************************************************************************************
-//What will be the output of the following Java program? output is 1,2,3
+//What will be the output of the following Java program? output is ====>1,2,3
 //class A
 //{
 //    {
@@ -71,7 +71,7 @@ public class Homework1 {
 //    }
 //}
 ////*********************************************************************************************
-//What will be the output of the following Java program?  output  // class A
+//What will be the output of the following Java program?  output  ====> class A
     //class B
     //class C
 
@@ -108,7 +108,7 @@ public class Homework1 {
 //    }
 //}
 ////*********************************************************************************************
-//What will be the output of the following Java program? output THIRD
+//What will be the output of the following Java program? output ====>THIRD
     //SECOND
     //FIRST
 //class A
@@ -180,7 +180,7 @@ public class Homework1 {
 //Class B Constructor
 //Class C Constructor
 ////*********************************************************************************************
-//What will be the output of the following Java program?   output Class Y
+//What will be the output of the following Java program?   output =====>Class Y
 //class X
 //{
 //    static void staticMethod()
@@ -205,7 +205,7 @@ public class Homework1 {
 //    }
 //}
 ////*********************************************************************************************
-//What will be the output of the following Java program? output compile error
+//What will be the output of the following Java program? output=====> compile error
 //class X
 //{
 //    public X(int i)

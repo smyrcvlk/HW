@@ -30,7 +30,7 @@ public class Homework1 {
 //}
 //Answers:
 //A
-//Derived show method called =====answer
+//Derived show method called ===== >answer
 //B
 //Base show method called
 
@@ -68,7 +68,7 @@ public class Homework1 {
 //B
 //Derived show method called
 //C
-//Compiler Error ======
+//Compiler Error ======>
 //D
 //Runtime Error
 
@@ -120,7 +120,7 @@ public class Homework1 {
 //3) Protected methods are final.
 //4) We cannot override private methods.
 //A
-//1, 2 and 4
+//1, 2 and 4   answer====>
 //B
 //Only 1 and 2
 //C
@@ -168,7 +168,7 @@ public class Homework1 {
 //Answers:
 //A
 //Base
-//Derived=======answer
+//Derived=======>answer
 //Derived
 //B
 //Base
@@ -210,7 +210,7 @@ public class Homework1 {
 //B
 //Derived
 //C
-//Compiler Error   answer====
+//Compiler Error   answer====>
 //D
 //Runtime Error
 
@@ -224,7 +224,7 @@ public class Homework1 {
 //3) Unlike C++, there is nothing like type of inheritance in Java where we can specify whether the inheritance is protected, public or private.
 
 //A
-//1, 2 and 3 answer
+//1, 2 and 3 answer=====>
 //B
 //1 and 2
 //C
@@ -273,7 +273,7 @@ public class Homework1 {
 //}
 //Answers:
 //A
-//Compiler Error in super.super.Print()  ==answer
+//Compiler Error in super.super.Print()  ====>answer
 //B
 //Grandparent's Print()
 //Parent's Print()
@@ -310,7 +310,7 @@ public class Homework1 {
 //    }
 //}
 //Answers:
-//Complex number is (10.0 + 15.0i)  ======answer
+//Complex number is (10.0 + 15.0i)  ======>answer
 //B
 //Compiler Error   answer
 //C

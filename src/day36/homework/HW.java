@@ -11,7 +11,7 @@ public class HW {
         try {
             System.out.println(array[100]);
 
-        } catch (Exception ArrayIndexOutOfBoundsException) {
+        } catch (Exception E) {
             System.out.println("bound of exception");
         }
 
@@ -22,7 +22,7 @@ public class HW {
                 System.out.println(num[i]);
 
             }
-        } catch (Exception ArrayIndexOutOfBoundsException) {
+        } catch (Exception E) {
             System.out.println("bound of exeption");
         }
 

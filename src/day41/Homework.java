@@ -74,7 +74,7 @@ public class Homework {
 //   }
 //a) 0
 //b) 1
-//c) 2   ANSWER IS 2
+//c) 2   ANSWER IS =====2
 //d) Compilation Error
 //
 //What will be the output of the following Java program?
@@ -104,7 +104,7 @@ public class Homework {
 //   }
 //a) 2 2
 //b) 3 3
-//c) 2 3 ANSWER C
+//c) 2 3 ANSWER ===>C
 //d) 3 2
 //
 //What will be the output of the following Java program?
@@ -138,7 +138,7 @@ public class Homework {
 //a) 1 2
 //b) 2 1
 //c) Runtime Error
-//d) Compilation Error  ANSWER IS D
+//d) Compilation Error  ANSWER IS===> D
 //
 //Which of this keyword must be used to inherit a class?
 //a) super
@@ -155,7 +155,7 @@ public class Homework {
 //Which of these is correct way of inheriting class A by class B?
 //a) class B + class A {}
 //b) class B inherits class A {}
-//c) class B extends A {} answer is c
+//c) class B extends A {} answer is ====> c
 //d) class B extends class A {}
 //
 }
